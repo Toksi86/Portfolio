@@ -70,7 +70,7 @@ body {
 }
 
 .intro {
-  margin: 0 0 120px;
+  margin: 0 30px 120px;
 }
 
 .subheading {
@@ -89,14 +89,14 @@ body {
 
 .intro h3,
 .portfolio h3 {
-  margin: 0 0 12px;
+  margin: 0 20px 12px;
   font-size: 28px;
   line-height: 40px;
   font-weight: 500;
 }
 
 .intro p {
-  margin: 0 0 32px;
+  margin: 0 0px 32px;
 }
 
 .skills-list {
@@ -136,7 +136,7 @@ body {
 }
 
 .portfolio {
-  margin: 0 0 120px;
+  margin: 0 30px 120px;
 }
 
 .projects {
@@ -191,4 +191,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.text br {
+	text-indent: 1.5em;
 }
